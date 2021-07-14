@@ -42,8 +42,8 @@
     "make-components": "cd components && node bin/makeAll src | grep 'Building\\|Webpacking\\|Copying\\|npx'"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.0",
-    "@babel/preset-env": "^7.9.5",
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.7",
     "babel-loader": "^8.1.0",
     "copyfiles": "^2.2.0",
     "diff": "^4.0.2",
